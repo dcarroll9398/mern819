@@ -28,6 +28,9 @@ img {
   width: 100%;
   max-width: 400px;
 }
+.img-large {
+  max-width: 100%;
+}
 .rating span {
   color: #ffc000;
 }
